@@ -1,4 +1,4 @@
-FROM quintenk/jdk-oracle:7
+FROM quintenk/jdk-oracle
 
 MAINTAINER Jun Matsushita "https://github.com/iilab"
 
